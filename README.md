@@ -4,4 +4,4 @@ Flutter instagram clone
 
 # Features 
 Dark Mode.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/SamerAtawna/InstagramClone/blob/master/screenshot.PNG)
